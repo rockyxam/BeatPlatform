@@ -2,7 +2,7 @@
 
 I am interested in music and create electronic music. I decided to create my own website where I will share my Beats.
 
-[I'm an inline-style link](file:///C:/Users/user/Desktop/BeatPlatform/BeatPlatform(main).html)
+[I'm an inline-style link](https://codepen.io/rockyxam/pen/KKwNagg?editors=1000)
 
 ScreenShots:
 <a href="https://imgur.com/eBojL3W"><img src="https://i.imgur.com/eBojL3W.png" title="source: imgur.com" /></a>
